@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abraham Chávez</h1>
 <h3 align="center">A passionate developer in progress, interested in both back-end and front-end</h3>
 
-- 🔭 I’m currently working on a landing page for [Duxx Sports](www.duxxsports.com)
+- 🔭 I’m currently working on a landing page for Duxx Sports: www.duxxsports.com
 
 - 📫 How to reach me **abraham@abrahmchavez.com**
 
